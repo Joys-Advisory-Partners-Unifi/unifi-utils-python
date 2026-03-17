@@ -20,8 +20,6 @@ Ported from the [Java UnifiUtils](https://github.com/RogerJoys/UnifiUtils) libra
 
 ## Installation
 
-## Installation
-
 ### From PyPI
 ```bash
 pip install unifi-utils-python
