@@ -20,10 +20,16 @@ Ported from the [Java UnifiUtils](https://github.com/RogerJoys/UnifiUtils) libra
 
 ## Installation
 
-### From Source
+## Installation
 
+### From PyPI
 ```bash
-git clone https://github.com/RogerJoys/unifi-utils-python.git
+pip install unifi-utils-python
+```
+
+### From Source
+```bash
+git clone https://github.com/Joys-Advisory-Partners-Unifi/unifi-utils-python.git
 cd unifi-utils-python
 pip install -e .
 ```
